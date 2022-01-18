@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Gowun+Dodum&display=swap');
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+}
+
+p {
+    font-family: 'Gowun Dodum', sans-serif;
+}
